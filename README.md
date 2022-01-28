@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyjith</h1>
 <h3 align="center">As of now I am working as cloud support engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vyjith](https://github.com/vyjith?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click here ](https://github.com/vyjith?tab=repositories)
 
 - 📫 How to reach me **vyjithks123@gmail.com**
 
