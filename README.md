@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vyjith</h1>
-<h3 align="center">As of now I am working as cloud support engineer</h3>
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/vyjith/vyjith/blob/main/result.gif" alt="header"/>
+</div>
 
 - 👨‍💻 All of my projects are available at [Click here ](https://github.com/vyjith?tab=repositories)
 
