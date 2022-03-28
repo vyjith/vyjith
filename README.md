@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 </h1>
+-------------------------------------------------- 
 <div align="center">
   <img src="https://github.com/vyjith/vyjith/blob/main/result.gif" alt="header"/>
 </div>
