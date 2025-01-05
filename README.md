@@ -1,36 +1,90 @@
--------------------------------------------------- 
+# Hi Folks, 👋
+
+
+##### Welcome to my GitHub,
+
+
+###### Qualified AWS, RHCE, and MCSE Cloud system Engineer with experience in Linux and windows based platforms. Effectively plan, install and configure the requirements to achieve high availability and performance. Proven ability to create and deliver solutions tied to business growth, organizational development, and server optimization. Skilled problem identifier and trouble-shooter.
+
+
+-----
+<center><img alt="Awesome GitHub Profile Readme" src="DEMO_2.gif"> </img></center>
+
+
+
+ ![packer](https://img.shields.io/badge/-packer-black?style=for-the-badge&logo=packer&logoColor=yellow) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cloudstack](https://img.shields.io/badge/-cloudstack-red?style=for-the-badge&logo=cloudstack&logoColor=yellow) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![Redhat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)  ![Cpanel](https://img.shields.io/badge/-cpanel-purple?style=for-the-badge&logo=Cpanel&logoColor=orange) ![Plesk](https://img.shields.io/badge/-Plesk-brown?style=for-the-badge&logo=Plesk&logoColor=white)
+<hr>
+
+
+```
+- Name: vyjith 
+
+     - Cloud platform:
+        - AWS Cloud
+        - Cloudstack
+        
+     - Operating Systems:
+        - RedHat
+        - Ubuntu
+        - CentOS
+        - Windows
+        
+    - Scripting Languages:
+        - Bash
+        - Python 
+        
+    - Infrastucture As a Code:
+        - Terraform
+        - Ansible
+        - AWS CloudFormation
+        
+    - Software Provisioning/Configuration Management:
+        - Ansible
+        
+    - Machine Image As a Code: 
+        - Packer
+        
+    - Source Code Management/Version Control:
+        - GitHub
+
+    - Containerization:
+        - Docker
+    
+    - Secrets Management Tool:
+        - HashiCorp Vault
+        
+    - OCI compatible Image Builder:
+        - Buildah
+        
+    - Project Management Tool:
+        - GitHub
+        
+    - Monitoring Tools:
+        - AWS CloudWatch
+        - Grafana
+        - Nagios
+        - Centreon
+ 
+```
+
+### ⚙️ Connect with Me
+
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&color=000001&background=FBFBFB00&lines=Connect+with+Me+%E2%98%8E%EF%B8%8F">
+</p>
+
+<br>
 <div align="center">
-  <img src="https://github.com/vyjith/vyjith/blob/main/result.gif" alt="header"/>
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    If you have any queries, Please ping me,&nbsp;
+<p align="center">
+<a href="mailto:aparthan275@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_r.e.b.e.l.z_33/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/-82038b191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.wppredirect.tk/go/?p=918893532145&m=%20Parthan."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </a></p>
 </div>
 
-- 👨‍💻 All of my projects are available at [Click here ](https://github.com/vyjith?tab=repositories)
-
-- 📫 How to reach me **vyjithks123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1izUWzrque3u_2ww3TMeJ1hMJrRTUYtnu/view?usp=sharing](https://drive.google.com/file/d/1izUWzrque3u_2ww3TMeJ1hMJrRTUYtnu/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vyjith ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyjith ks" height="30" width="40" /></a>
-<a href="https://fb.com/vyjith ks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vyjith ks" height="30" width="40" /></a>
-<a href="https://instagram.com/iamvyjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamvyjith" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,bash,docker,git,heroku,py,ansible,arch,atom,elasticsearch,flask,github,githubactions,gitlab,gmail,grafana,jenkins,kubernetes,linkedin,md,mint,mysql,nginx,postman,redhat,terraform,ubuntu,vim,vscode,wordpress)](https://skillicons.dev)
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<p align=center>
-  <div align=left>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=penguinpal25&theme=catppuccin_mocha&include_all_commits=false&count_private=false&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>    
-    <a href="https://git.io/streak-stats"><img width=420 height=250 align="right" src="https://streak-stats.demolab.com/?user=penguinpal25&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
-  </div>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width=380 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguinpal25&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
-  </div>
-</p>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penguinpal25&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="vyshnavlal" /></a></p>
+<h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
