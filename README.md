@@ -43,6 +43,7 @@
         
     - Machine Image As a Code: 
         - Packer
+        - Maven
         
     - Source Code Management/Version Control:
         - GitHub
