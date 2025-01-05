@@ -79,14 +79,15 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=30&duration=4000&color=000001&background=FBFBFB00&lines=Connect+with+Me+%E2%98%8E%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=5082e2&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
 </p>
 
 <br>
 <div align="center">
   <br>
   <p><b>Thank you for your time.</b><br>
-    If you have any queries, Please ping me,&nbsp;
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say <i>Hi</i>,&nbsp;
 <p align="center">
 <a href="mailto:vyjithks123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/thevyjith/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
